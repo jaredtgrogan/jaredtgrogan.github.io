@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+My CV may be found [here](/files/pdf/GroganCV.pdf).
 
-Work experience
+<!-- Education
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD in Economics, Columbia University, 2026 (expected)
+* BS in Computational Economics, University of Alabama in Huntsville, 2018
+* BS in Mathematics, University of Alabama in Huntsville, 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* Summer 2018 - Summer 2020: Princeton University Industrial Relations Section
+  * Supervisors: Professors Leah Boustan, Will Dobbie, David Lee, and Alex Mas
+  * Duties: Data cleaning/acquisition, literature reviews, copyediting, exploratory analysis
+* Summer 2017: University of California Berkeley
+  * Supervisor: Professor David Card
+  * Duties: Data cleaning/validation, copyediting
+* Summer 2016: University of Alabama in Huntsville
+  * Supervisors: Professors Cynthia Gramm and John Schnell
+  * Duties: Data cleaning/acquisition
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Stata, LaTeX, Microsoft Office (3+ years)
+* Python, R, C/C++ (1-2 years)
+* MATLAB, SQL, Netlogo (<1 year) -->
