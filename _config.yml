@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jared Tyler Grogan"
 title_separator          : "-"
-name                     : &name "Jared Tyler Grogan"
-description              : &description "Columbia Economics PhD Candidate"
+name                     : &name
+description              : &description
 url                      : https://jaredtgrogan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaredtgrogan/jaredtgrogan.github.io"
