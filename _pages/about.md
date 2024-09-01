@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Jared Grogan, a second year PhD student in Columbia University's Economics Department. My research interests include labor economics, public economics (education and crime) and economic history. While I have some projects currently in the works, none of them are in a state to be presented at this time. I will add abstracts for these projects as they become more developed.
+Hello! I am Jared Grogan, a fifth year PhD student in Columbia University's Economics department. My research interests include labor economics, public economics (education and crime) and economic history. I am currently writing my dissertation on the labor economics of the trucking industry with emphasis on labor supply, driver turnover, and driver compensation. I will add abstracts for these projects as they become more developed.
 
 Background
 ======
